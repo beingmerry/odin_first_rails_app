@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* 2020-01-07 | Cloned First Rails App to Xubuntu Devbox on work laptop
